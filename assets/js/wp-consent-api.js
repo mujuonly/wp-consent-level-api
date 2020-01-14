@@ -5,7 +5,7 @@
  *
  *
  * Edit: chronologically it seems difficult to create a sort of filter for the consent type.
- * Let's change it so cookiebanners are just required to set it, it it's not available, we use a default, as defined here.
+ * Let's change it so cookiebanners are just required to set it, if it's not available, we use a default, as defined here.
  *
  * This way, if a consent management plugin does not define a consenttype, the one passed here will be used, and it will still work.
  *
